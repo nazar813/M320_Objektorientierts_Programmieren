@@ -1,0 +1,8 @@
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\bin\Debug\Aufgabe_ggt_kgv.exe.config
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\bin\Debug\Aufgabe_ggt_kgv.exe
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\bin\Debug\Aufgabe_ggt_kgv.pdb
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\obj\Debug\Aufgabe_ggt_kgv.csproj.AssemblyReference.cache
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\obj\Debug\Aufgabe_ggt_kgv.csproj.CoreCompileInputs.cache
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\obj\Debug\Aufgabe_ggt_kgv.exe
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\obj\Debug\Aufgabe_ggt_kgv.pdb
+C:\Users\urloc\OneDrive - Kt. SG BLD\Modul\M320\Aufgabe_ggt_kgv\Aufgabe_ggt_kgv\obj\Debug\Aufgabe_ggt_kgv.exe.config
